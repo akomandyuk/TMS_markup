@@ -1,2 +1,2 @@
 # TMS_markup
-HTML/CSS realted homeworks
+HTML/CSS related homeworks
